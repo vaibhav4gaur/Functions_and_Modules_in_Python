@@ -1,16 +1,16 @@
-# 📄 Functions_and_Modules_in_Python
+ # 📄 Functions_and_Modules_in_Python
 
-## ➡️ This module is a python normal code on recursion , if condition and for loop based on assignment 3 . Functions and modules in python 
+ ## ➡️ This module is a python normal code on recursion , if condition and for loop based on assignment 3 . Functions and modules in python 
 
-### 📌 Task1 : Calculate Factorial Using a Function
+ ### 📌 Task1 : Calculate Factorial Using a Function
  
-         Defines Function name factorial that takes a number as an argument and 
+         Defines Function name factorial that takes a number as an argument and
          calculates its factorial using loop or recursion 
          Returns the calculated factorial 
          Calls the function with simple number and prints the output 
-
+         
  ### 🌠 *Output:*
-  *ScreenShot*
+  **ScreenShot**
   
   <img width="467" alt="ss1" src="https://github.com/user-attachments/assets/82787a4d-a2e7-4ee5-ad48-01be754e9097" />
 
@@ -28,6 +28,6 @@
        x = math.log(n)
 
 ### 📁 *Output*
-*ScreenShot*
+**ScreenShot**
 
 <img width="598" alt="ss2" src="https://github.com/user-attachments/assets/d5d6bf25-9640-4a84-bdb2-71cf8dca7db1" />
